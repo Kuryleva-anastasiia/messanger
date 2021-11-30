@@ -6,15 +6,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.SignalR;
 
 namespace Messanger
 {
 	public class Program
 	{
+		///////// по умолчанию /////////
 		public static void Main(string[] args)
 		{
 			CreateHostBuilder(args).Build().Run();
 		}
+
 
 		public static IHostBuilder CreateHostBuilder(string[] args) =>
 			Host.CreateDefaultBuilder(args)
@@ -22,5 +25,16 @@ namespace Messanger
 				{
 					webBuilder.UseStartup<Startup>();
 				});
+
+		/////////
+		
+		
+		public class ChatHub : Hub
+		{
+			public async Task Send(string message, string userName)
+			{
+				await this.Clients.All.SendAsync("Send", message, userName);
+			}
+		}
 	}
 }
