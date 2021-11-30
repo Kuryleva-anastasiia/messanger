@@ -1,4 +1,5 @@
 using System;
+using Microsoft.EntityFrameworkCore;
 
 namespace Messanger.Models
 {
@@ -8,4 +9,8 @@ namespace Messanger.Models
 
 		public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
 	}
+
+	
+	
+
 }

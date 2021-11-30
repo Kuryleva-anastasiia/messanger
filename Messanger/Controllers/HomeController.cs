@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Messanger.Controllers
 {
@@ -18,9 +19,10 @@ namespace Messanger.Controllers
 			_logger = logger;
 		}
 
+		[Authorize]
 		public IActionResult Index()
 		{
-			return View();
+			return Content(User.Identity.Name);
 		}
 
 		public IActionResult Privacy()
