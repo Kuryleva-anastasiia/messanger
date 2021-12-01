@@ -51,13 +51,13 @@ namespace Messanger
 			app.UseRouting();
 
 			app.UseAuthentication();    // аутентификаци€
-			app.UseAuthorization();		// авторизаци€
+			app.UseAuthorization();     // авторизаци€
 
 			app.UseEndpoints(endpoints =>
 			{
 				endpoints.MapControllerRoute(
 					name: "default",
-					pattern: "/chat");
+					pattern: "{controller=Home}/{action=Index}/{id?}");
 			});
 		}
 	}

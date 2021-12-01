@@ -7,6 +7,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
+using System.IO;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Messanger
 {
@@ -16,6 +18,16 @@ namespace Messanger
 		public static void Main(string[] args)
 		{
 			CreateHostBuilder(args).Build().Run();
+		}
+
+		private static readonly IConfiguration _configuration;
+
+		static Program()
+		{
+			_configuration = new ConfigurationBuilder()
+				.SetBasePath(Directory.GetCurrentDirectory())
+				.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+				.Build();
 		}
 
 
@@ -29,12 +41,12 @@ namespace Messanger
 		/////////
 		
 		
-		public class ChatHub : Hub
-		{
-			public async Task Send(string message, string userName)
-			{
-				await this.Clients.All.SendAsync("Send", message, userName);
-			}
-		}
+		//public class ChatHub : Hub
+		//{
+		//	public async Task Send(string message, string userName)
+		//	{
+		//		await this.Clients.All.SendAsync("Send", message, userName);
+		//	}
+		//}
 	}
 }
