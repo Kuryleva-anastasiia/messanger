@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BYpZtQg4jZO/a3M6qhD360WmKEvxthR+ZkknuTwaZAsmaZqKu5KndpQmbkTUSolT/RsRvhT6vy8hKqXaTHiCBg==",
+  "dgSpecHash": "v9JeR5R8LEZQIqI28tDldMS5vyTHCfygpFGU1yPYJT8dnOGHMwpZ8uqRxjXJwO+bm44izTYk74yOma49xSC8Qw==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\Практика, декабрь 3 курс\\Messanger\\Messanger\\Messanger.csproj",
+  "projectFilePath": "D:\\Рабочий стол\\Практика, декабрь 3 курс\\Messanger\\Messanger\\Messanger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\knast\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\knast\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

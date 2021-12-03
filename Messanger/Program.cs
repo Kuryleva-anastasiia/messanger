@@ -39,14 +39,14 @@ namespace Messanger
 				});
 
 		/////////
-		
-		
-		//public class ChatHub : Hub
-		//{
-		//	public async Task Send(string message, string userName)
-		//	{
-		//		await this.Clients.All.SendAsync("Send", message, userName);
-		//	}
-		//}
+
+
+		public class ChatHub : Hub
+		{
+			public async Task Send(string message, string userName)
+			{
+				await this.Clients.All.SendAsync("Send", message, userName);
+			}
+		}
 	}
 }

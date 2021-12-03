@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Messanger",
+    "\\Messanger\\Controllers",
+    "\\Messanger\\Models",
+    "\\Messanger\\ViewModels",
+    "\\Messanger\\Views",
+    "\\Messanger\\Views\\Home"
+  ],
+  "SelectedNode": "\\Messanger\\wwwroot",
+  "PreviewInSolutionExplorer": false
+}

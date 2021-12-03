@@ -22,7 +22,11 @@ namespace Messanger.Controllers
 		[Authorize]
 		public IActionResult Index()
 		{
-			return Content(User.Identity.Name);
+			if (User.Identity.IsAuthenticated)
+			{
+				return View("Index");
+			}
+			return Content("не аутентифицирован");
 		}
 
 		public IActionResult Privacy()

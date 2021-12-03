@@ -5706,11 +5706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Практика, декабрь 3 курс\\Messanger\\Messanger\\Messanger.csproj",
+      "projectUniqueName": "D:\\Рабочий стол\\Практика, декабрь 3 курс\\Messanger\\Messanger\\Messanger.csproj",
       "projectName": "Messanger",
-      "projectPath": "D:\\Desktop\\Практика, декабрь 3 курс\\Messanger\\Messanger\\Messanger.csproj",
+      "projectPath": "D:\\Рабочий стол\\Практика, декабрь 3 курс\\Messanger\\Messanger\\Messanger.csproj",
       "packagesPath": "C:\\Users\\knast\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Практика, декабрь 3 курс\\Messanger\\Messanger\\obj\\",
+      "outputPath": "D:\\Рабочий стол\\Практика, декабрь 3 курс\\Messanger\\Messanger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\knast\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -71,3 +71,149 @@ D:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\D
 D:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 D:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.csprojAssemblyReference.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.AssemblyInfoInputs.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.AssemblyInfo.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.csproj.CoreCompileInputs.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorAssemblyInfo.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorAssemblyInfo.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\ref\Messanger.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\appsettings.Development.json
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\appsettings.json
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\libman.json
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.exe
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.deps.json
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.runtimeconfig.json
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.runtimeconfig.dev.json
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\ref\Messanger.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.Views.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.Views.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\staticwebassets\Messanger.StaticWebAssets.Manifest.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\staticwebassets\Messanger.StaticWebAssets.xml
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\scopedcss\bundle\Messanger.styles.css
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.TagHelpers.input.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.TagHelpers.output.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorCoreGenerate.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorTargetAssemblyInfo.cache
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorTargetAssemblyInfo.cs
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.Views.pdb
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.csproj.CopyComplete
+E:\Desktop\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.genruntimeconfig.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\appsettings.Development.json
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\appsettings.json
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\libman.json
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.exe
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.deps.json
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.runtimeconfig.json
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.runtimeconfig.dev.json
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\ref\Messanger.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.Views.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Messanger.Views.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.csprojAssemblyReference.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.AssemblyInfoInputs.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.AssemblyInfo.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.MvcApplicationPartsAssemblyInfo.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorAssemblyInfo.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorAssemblyInfo.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\staticwebassets\Messanger.StaticWebAssets.Manifest.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\staticwebassets\Messanger.StaticWebAssets.xml
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\scopedcss\bundle\Messanger.styles.css
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.TagHelpers.input.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.TagHelpers.output.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorCoreGenerate.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorTargetAssemblyInfo.cache
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.RazorTargetAssemblyInfo.cs
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.Views.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.csproj.CopyComplete
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\ref\Messanger.dll
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.pdb
+D:\Рабочий стол\Практика, декабрь 3 курс\Messanger\Messanger\obj\Debug\net5.0\Messanger.genruntimeconfig.cache

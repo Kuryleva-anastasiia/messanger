@@ -1,8 +1,60 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+	ViewData["Title"] = "Chat";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@using System.Security.Claims
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>SignalR Chat</title>
+</head>
+<body>
+	
+
+	<div>Добро пожаловать,  @User.Identity.Name!</div>
+
+	<div id="header"></div><br />
+
+	<div id="inputForm">
+		<textarea type="text" id="message"></textarea><br />
+		<input type="button" id="sendBtn" value="Отправить" />
+	</div>
+	<div id="chatroom"></div>
+	<script src="~/js/signalr/dist/browser/signalr.min.js"></script>
+	<script>
+		const hubConnection = new signalR.HubConnectionBuilder()
+			.withUrl("{controller=Home}/{action=Index}/{id?}")
+			.build();
+
+		// отправка сообщения на сервер
+		document.getElementById("sendBtn").addEventListener("click", function (e) {
+			let message = document.getElementById("message").value;
+			let name = "Настя";
+			hubConnection.invoke("Send", message, name);
+		});
+
+
+		// получение сообщения от сервера
+		hubConnection.on('Send', function (message, userName) {
+
+			// создаем элемент <b> для имени пользователя
+			let userNameElem = document.createElement("b");
+			userNameElem.appendChild(document.createTextNode(userName + ': '));
+
+			// создает элемент <p> для сообщения пользователя
+			let elem = document.createElement("p");
+			elem.appendChild(userNameElem);
+			elem.appendChild(document.createTextNode(message));
+			// вставка сообщения в начало
+			let firstElem = document.getElementById("chatroom").firstChild;
+			document.getElementById("chatroom").insertBefore(elem, firstElem);
+
+		});
+
+		hubConnection.start();
+	</script>
+</body>
+</html>
