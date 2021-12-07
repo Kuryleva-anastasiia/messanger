@@ -47,6 +47,18 @@ namespace Messanger
 			{
 				await this.Clients.All.SendAsync("Send", message, userName);
 			}
+
+			public override async Task OnConnectedAsync()
+			{
+				await Clients.All.SendAsync("Notify", $"{Context.User.Identity.Name} вошел в чат");
+				await base.OnConnectedAsync();
+			}
+
+			public override async Task OnDisconnectedAsync(Exception exception)
+			{
+				await Clients.All.SendAsync("Notify", $"{Context.User.Identity.Name} покинул в чат");
+				await base.OnDisconnectedAsync(exception);
+			}
 		}
 	}
 }

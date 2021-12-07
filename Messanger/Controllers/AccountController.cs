@@ -35,7 +35,7 @@ namespace Messanger.Controllers
 
                     return RedirectToAction("Index", "Home");
                 }
-                ModelState.AddModelError("", "Вы уже зарегестрированы!");
+                ModelState.AddModelError("", "Неправильный логин или пароль!");
             }
             return View(model);
         }
@@ -70,7 +70,7 @@ namespace Messanger.Controllers
                     return RedirectToAction("Index", "Home");
                 }
                 else
-                    ModelState.AddModelError("", "Некорректные логин и(или) пароль");
+                    ModelState.AddModelError("", "Вы уже зарегистрированы!");
             }
             return View(model);
         }

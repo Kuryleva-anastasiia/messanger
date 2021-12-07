@@ -55,9 +55,12 @@ namespace Messanger
 
 			app.UseEndpoints(endpoints =>
 			{
+				endpoints.MapHub<Program.ChatHub>("/chat");
+
 				endpoints.MapControllerRoute(
 					name: "default",
-					pattern: "{controller=Home}/{action=Index}/{id?}");
+					pattern: "/{controller=Home}/{action=Index}");
+				
 			});
 		}
 	}

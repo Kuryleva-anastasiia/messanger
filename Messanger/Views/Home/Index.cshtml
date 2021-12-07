@@ -26,14 +26,26 @@
 	<script src="~/js/signalr/dist/browser/signalr.min.js"></script>
 	<script>
 		const hubConnection = new signalR.HubConnectionBuilder()
-			.withUrl("{controller=Home}/{action=Index}/{id?}")
+			.withUrl("/chat")
 			.build();
 
 		// отправка сообщения на сервер
 		document.getElementById("sendBtn").addEventListener("click", function (e) {
 			let message = document.getElementById("message").value;
-			let name = "Настя";
+			let name = @User.Identity.Name;
 			hubConnection.invoke("Send", message, name);
+		});
+
+		//уведомление
+		hubConnection.on('Notify', function (message) {
+
+			// добавляет элемент для диагностического сообщения
+			let notifyElem = document.createElement("b");
+			notifyElem.appendChild(document.createTextNode(message));
+			let elem = document.createElement("p");
+			elem.appendChild(notifyElem);
+			var firstElem = document.getElementById("chatroom").firstChild;
+			document.getElementById("chatroom").insertBefore(elem, firstElem);
 		});
 
 
